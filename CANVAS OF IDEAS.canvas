@@ -1,0 +1,14 @@
+{
+	"nodes":[
+		{"id":"d42c9cad62e169fa","type":"text","text":"tyjuhrgefw\n","x":-227,"y":-218,"width":250,"height":60},
+		{"id":"7bd152a0cd8a085d","type":"file","file":"en.1996.1.1.2005.pdf","x":217,"y":-354,"width":400,"height":400},
+		{"id":"6d0ba20717a401f0","type":"text","text":"yujmjnthbgrvfedcws\n","x":-620,"y":80,"width":250,"height":389},
+		{"id":"9b4d63282218b13c","type":"text","text":"yujmjnthbgrvfedcws\n","x":-33,"y":160,"width":250,"height":389},
+		{"id":"c61059fcad2b14a7","type":"file","file":"Screenshot 2025-12-12 013834.png","x":-680,"y":-354,"width":400,"height":317},
+		{"id":"99ec84560b31876c","type":"text","text":"buna seara\n","x":-349,"y":265,"width":250,"height":60},
+		{"id":"aec7ade56fbbc676","type":"file","file":"Screenshot 2025-12-12 121316.png","x":340,"y":125,"width":346,"height":400}
+	],
+	"edges":[
+		{"id":"3222ab1d1324704e","fromNode":"d42c9cad62e169fa","fromSide":"right","toNode":"7bd152a0cd8a085d","toSide":"left"}
+	]
+}
