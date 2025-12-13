@@ -1,0 +1,238 @@
+{
+  "main": {
+    "id": "7f3d62b6e44bda1b",
+    "type": "split",
+    "children": [
+      {
+        "id": "5a416f0c68bf2471",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "19a4473d8ce5e448",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "CANVAS OF IDEAS.canvas",
+                "viewState": {
+                  "x": -1177.4142450927059,
+                  "y": 85.65473506168175,
+                  "zoom": -1.2222220052083332
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "CANVAS OF IDEAS"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0afe19c5c517aa1e",
+    "type": "split",
+    "children": [
+      {
+        "id": "04b96ac493fc8c2e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2adb5088e3078d8e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "a05c9763c54d36df",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "9d805467182e259f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "38b7904fb9dbf83a",
+    "type": "split",
+    "children": [
+      {
+        "id": "764edfbc6ed18717",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c10cb9572e9bba34",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Images/2023-0374.pdf",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 2023-0374"
+            }
+          },
+          {
+            "id": "9e73d155d2f75ca7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Early research/Regulations/Regulations.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Regulations"
+            }
+          },
+          {
+            "id": "a66e278223abd17e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "5b47b09482e9cecd",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "a61188225ccbc2b1",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Early research/Regulations/Regulations.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Regulations"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 641.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "smart-connections:Smart Connections: Open connections view": false,
+      "smart-connections:Smart Lookup: Open lookup view": false,
+      "smart-connections:Smart Connections: Open random connection": false,
+      "gemini-scribe:Gemini Scribe: Agent Mode": false,
+      "webpage-html-export:Export as HTML": false,
+      "obsidian42-brat:BRAT": false,
+      "workspaces:Manage workspace layouts": false
+    }
+  },
+  "active": "19a4473d8ce5e448",
+  "lastOpenFiles": [
+    "site-lib/search-index.json",
+    "site-lib/metadata.json",
+    "site-lib/styles/snippets.css",
+    "site-lib/styles/obsidian.css",
+    "site-lib/styles/main-styles.css",
+    "site-lib/styles/global-variable-styles.css",
+    "site-lib/scripts/webpage.js",
+    "site-lib/scripts/graph-wasm.wasm",
+    "site-lib/scripts/graph-wasm.js",
+    "site-lib/scripts/graph-render-worker.js",
+    "site-lib/media/favicon.png",
+    "site-lib/media/6155340132a851f6089e.svg",
+    "site-lib/media/2308ab1944a6bfa5c5b8.svg",
+    "site-lib/html/file-tree-content.html",
+    "CANVAS OF IDEAS.canvas",
+    "MEDIA/IMAGES/IMG-13-12-2025-021340809.png",
+    "AI1.md",
+    "MEDIA/IMAGES/IMG-13-12-2025-005811483.png",
+    "MEDIA/IMAGES/Pasted image 20251213004705.png",
+    "MEDIA/IMG-20251213005555552.jpg",
+    "MEDIA/IMAGES/IMG-20251213005642603.jpg",
+    "MEDIA/IMAGES/CANVAS OF IDEAS/IMG-20251213005314977.png",
+    "MEDIA/IMAGES/CANVAS OF IDEAS/IMG-20251213005254028.png",
+    "Welcome.md",
+    "Early research/CANVAS OF IDEAS.canvas",
+    "gemini-scribe/Agent-Sessions/Agent Session 12-12-2025.md",
+    "gemini-scribe/AGENTS.md",
+    "Early research/Timber vs Steel/Timber vs Steel.md",
+    "Early research/Materials/Materials.md",
+    "Early research/Loading & vibrations/Loading & vibrations.md",
+    "Early research/Early research.md",
+    "gemini-scribe/Prompts/example-expert.md",
+    "2025-12-12.md",
+    "Early research/Regulations/Regulations.md",
+    "Early research/Regulations/Untitled.md",
+    "Early research/Materials/Untitled.md",
+    "Untitled.md",
+    "Early research/Untitled 2.md"
+  ]
+}
